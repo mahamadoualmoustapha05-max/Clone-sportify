@@ -5,3 +5,6 @@ dist/
 !.env.example
 *.local
 .vscode/settings.json
+
+1.txt
+spotify.zip
